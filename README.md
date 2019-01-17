@@ -5,5 +5,5 @@ $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/KANG-NEWBIE/TelkomNyet<br>
 $ pip install requests<br>
-$ cd TelkomNye<br>
+$ cd TelkomNyet<br>
 $ python telnyet.py
